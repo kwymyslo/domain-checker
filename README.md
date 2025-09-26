@@ -5,3 +5,8 @@
 1. Uzupełnij plik `.env`
 2. `npm install`
 3. `node index.js`
+
+## `❗` Dodatkowe informacje
+
+- Wymagana jest najnowsza wersja [node.js](https://nodejs.org/)
+- Skrypt jest domyślnie ustawiony pod Gmail, jednakże można zmienić usługę na dowolną
