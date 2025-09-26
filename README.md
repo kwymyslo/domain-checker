@@ -9,4 +9,4 @@
 ## `❗` Dodatkowe informacje
 
 - Wymagana jest najnowsza wersja [node.js](https://nodejs.org/)
-- Skrypt jest domyślnie ustawiony pod Gmail, jednakże można zmienić usługę na dowolną
+- Skrypt jest domyślnie ustawiony pod Gmail, jednakże można go skonfigurować pod dowolny serwis webmail
