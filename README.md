@@ -4,7 +4,7 @@
 
 Prosty skrypt, który regularnie sprawdza status rejestracji domeny w bazie WHOIS. W momencie, w którym domena jest wolna, wysyła powiadomienie e-mail, co pozwala na jej szybkie przechwycenie.
 
-## `ℹ️` Pierwsze użycie
+## `✅` Pierwsze użycie
 
 1. Uzupełnij plik `.env`
 2. `npm install`
