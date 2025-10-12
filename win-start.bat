@@ -1,4 +1,6 @@
 @echo off
 title domain-checker
 node index.js
-pause
+echo.
+echo Nacisnij dowolny przycisk...
+pause >nul
